@@ -1,0 +1,29 @@
+{
+  "name": "node_basic",
+  "version": "1.0.0",
+  "description": "tutorial node basics",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MynameisArthur/fcc_node_basic.git"
+  },
+  "author": "Arthur Domański",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MynameisArthur/fcc_node_basic/issues"
+  },
+  "homepage": "https://github.com/MynameisArthur/fcc_node_basic#readme",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "express": "^4.17.1",
+    "lodash": "^4.17.15",
+    "uuid": "^8.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.1.0"
+  }
+}

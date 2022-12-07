@@ -19,7 +19,7 @@
   "homepage": "https://github.com/MynameisArthur/fcc_node_basic#readme",
   "dependencies": {
     "esm": "^3.2.25",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "lodash": "^4.17.15",
     "uuid": "^8.1.0"
   },
